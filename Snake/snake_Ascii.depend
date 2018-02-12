@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518289475 source:d:\code\snake\main.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+
